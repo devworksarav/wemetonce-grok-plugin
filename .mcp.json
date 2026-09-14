@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "wemetonce": {
+      "type": "streamable-http",
+      "url": "https://www.wemetonce.com/api/mcp"
+    }
+  }
+}

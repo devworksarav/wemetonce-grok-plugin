@@ -1,0 +1,12 @@
+{
+  "name": "wemetonce",
+  "version": "1.0.0",
+  "description": "Find and reconnect with people from your past using approved public WeMetOnce Lost Connection posts.",
+  "author": {
+    "name": "BAGDI VISHAL SINGH",
+    "url": "https://www.wemetonce.com"
+  },
+  "homepage": "https://www.wemetonce.com",
+  "repository": "https://github.com/devworksarav/wemetonce-grok-plugin",
+  "keywords": ["wemetonce", "lost connections", "find people", "reconnect", "old friends", "past connections", "mcp"]
+}
